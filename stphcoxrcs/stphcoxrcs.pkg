@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'stphcoxrcs': Check proportional-hazards assumption after a Cox model using restricted cubic splines Use stphcoxrcs With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f stphcoxrcs.ado
+f stphcoxrcs.sthlp
