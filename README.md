@@ -1,6 +1,8 @@
 # stphcoxrcs
 Check proportional-hazards assumption after a Cox model using restricted cubic splines Use stphcoxrcs With STATA 18
 
+https://www.youtube.com/watch?v=HPe32Byalu0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
